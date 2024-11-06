@@ -1,5 +1,4 @@
 <?php
-
 class Cliente extends Pessoa
 {
     private $dataCadastro;
